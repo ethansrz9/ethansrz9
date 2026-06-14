@@ -5,12 +5,12 @@
 <h1 align="center">長島不加冰.</h1>
 
 <p align="center">
-  <strong>Android Root / Xposed 工具维护者</strong>
+  <strong>Mobile system tooling · Android Root · Xposed · IPA packaging</strong>
 </p>
 
 <p align="center">
-  主要维护面向 Root 用户的模块、启动脚本和系统级工具。<br/>
-  公开仓库以稳定发布和可直接安装为主；移动应用原型和 Android 系统工具实验多在私有仓库推进。
+  I build practical tools for rooted Android, Xposed/LSPosed workflows, boot automation, and mobile app packaging.<br/>
+  My public repositories focus on stable release artifacts, while private work covers deeper system utilities, IPA build/signing workflows, and mobile app prototypes.
 </p>
 
 ---
@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ethansrz9/icon-hook-lsp">Icon Hook LSP</a></h3>
-      <p>LSPosed/Xposed 模块发布仓库，用于自定义应用名称和图标显示替换。</p>
+      <p>Public release repository for an LSPosed/Xposed module that customizes app labels and icon presentation.</p>
       <p>
         <img src="https://img.shields.io/badge/v4.17-latest-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/LSPosed%20%2F%20Xposed-555555?style=flat-square" />
@@ -35,7 +35,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ethansrz9/scene-adb-boot">Scene ADB Boot Activator</a></h3>
-      <p>KernelSU/APatch 模块，用于在开机后恢复 Scene ADB 相关启动工作流。</p>
+      <p>KernelSU/APatch module for restoring Scene ADB startup workflows after boot.</p>
       <p>
         <img src="https://img.shields.io/badge/v1.9-latest-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/KernelSU%20%2F%20APatch-555555?style=flat-square" />
@@ -53,9 +53,10 @@
 ## Focus
 
 <ul>
-  <li>LSPosed/Xposed 模块：应用显示替换、系统行为调整、Hook 工作流。</li>
-  <li>Root 自动化：KernelSU/APatch 模块、启动脚本、ADB 相关工作流恢复。</li>
-  <li>移动应用原型：React/Vite/Capacitor 工具型应用和 Android 原生实验。</li>
+  <li>Android system customization: LSPosed/Xposed modules, app presentation hooks, and root-level behavior changes.</li>
+  <li>Root automation: KernelSU/APatch modules, boot scripts, ADB workflow recovery, and device-side utilities.</li>
+  <li>Mobile packaging: IPA build/signing workflows, release packaging, and practical distribution tooling.</li>
+  <li>App prototypes: React/Vite/Capacitor tools and native Android experiments.</li>
 </ul>
 
 ## Stack
