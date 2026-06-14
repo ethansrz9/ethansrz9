@@ -2,75 +2,54 @@
   <img src="https://raw.githubusercontent.com/ethansrz9/ethansrz9/main/assets/cat-carousel-transparent.gif" alt="Animated cat carousel banner" width="100%" />
 </p>
 
-<h1 align="center">長島不加冰.</h1>
+# hey, 長島不加冰 here
 
-<p align="center">
-  <strong>Android Root / Xposed 工具维护者</strong>
+Building tools for the **Android root & Xposed** ecosystem.
+
+Focused on **LSPosed/Xposed modules** and **root-level system utilities** — making rooted Android more powerful and customizable.
+
+## Projects
+
+### [Icon Hook LSP](https://github.com/ethansrz9/icon-hook-lsp)
+
+Android LSPosed/Xposed module for user-configurable icon hooking.
+
+<p>
+  <a href="https://github.com/ethansrz9/icon-hook-lsp">
+    <img src="https://img.shields.io/badge/Icon%20Hook%20LSP-Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ethansrz9/icon-hook-lsp/releases">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  做一些面向 Root 用户的实用模块、启动脚本和系统级工具<br/>
-  以稳定发布、清晰说明和可直接安装为优先
+### [Scene ADB Boot Activator](https://github.com/ethansrz9/scene-adb-boot)
+
+Android root module for restoring ADB-related startup workflow after boot.
+
+<p>
+  <a href="https://github.com/ethansrz9/scene-adb-boot">
+    <img src="https://img.shields.io/badge/Scene%20ADB%20Boot-Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ethansrz9/scene-adb-boot/releases">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
 </p>
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ethansrz9/icon-hook-lsp">Icon Hook LSP</a></h3>
-      <p>LSPosed/Xposed 模块发布仓库，用于自定义应用名称和图标显示替换。</p>
-      <p>
-        <img src="https://img.shields.io/badge/v4.17-latest-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/LSPosed%20%2F%20Xposed-555555?style=flat-square" />
-        <img src="https://img.shields.io/badge/Public%20Release-APK-111827?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/ethansrz9/icon-hook-lsp/releases">
-          <img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ethansrz9/scene-adb-boot">Scene ADB Boot Activator</a></h3>
-      <p>KernelSU/APatch 模块，用于在开机后恢复 Scene ADB 相关启动工作流。</p>
-      <p>
-        <img src="https://img.shields.io/badge/v1.9-latest-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/KernelSU%20%2F%20APatch-555555?style=flat-square" />
-        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/ethansrz9/scene-adb-boot/releases">
-          <img src="https://img.shields.io/badge/Download-ZIP-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/LSPosed-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Xposed-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/KernelSU-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethansrz9&show_icons=true&hide_border=true&bg_color=00000000&title_color=3DDC84&text_color=6B7280&icon_color=3DDC84&locale=zh-cn" alt="GitHub Stats" />
-</p>
-
 ## Contact
 
-<p align="center">
+<p>
   <a href="https://github.com/ethansrz9">
     <img src="https://img.shields.io/badge/GitHub-ethansrz9-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
