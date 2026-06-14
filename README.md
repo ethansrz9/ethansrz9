@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leonxlnx/Leonxlnx/main/assets/lumen-halftone-wide.gif" alt="banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethansrz9/ethansrz9/main/assets/cat-carousel-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethansrz9/ethansrz9/main/assets/cat-carousel-light.gif" />
+    <img src="https://raw.githubusercontent.com/ethansrz9/ethansrz9/main/assets/cat-carousel-light.gif" alt="Animated cat carousel banner" width="100%" />
+  </picture>
 </p>
 
 # hey, 長島不加冰 here
