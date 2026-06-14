@@ -39,7 +39,7 @@
       <p>
         <img src="https://img.shields.io/badge/v1.9-latest-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/KernelSU%20%2F%20APatch-555555?style=flat-square" />
-        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Public%20Release-ZIP-111827?style=flat-square" />
       </p>
       <p>
         <a href="https://github.com/ethansrz9/scene-adb-boot/releases">
