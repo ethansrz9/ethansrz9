@@ -5,13 +5,16 @@
 <h1 align="center">長島不加冰.</h1>
 
 <p align="center">
-  <strong>Mobile system tooling · Android Root · Xposed · IPA packaging</strong>
+  <strong>Mobile Systems Developer &amp; Toolchain Maintainer</strong>
 </p>
 
-<p align="center">
-  I build practical tools for rooted Android, Xposed/LSPosed workflows, boot automation, and mobile app packaging.<br/>
-  My public repositories focus on stable release artifacts, while private work covers deeper system utilities, IPA build/signing workflows, and mobile app prototypes.
-</p>
+I focus on system-level utility development, runtime modification, and mobile engineering toolchains across the Android root ecosystem and cross-platform app workflows.
+
+My open-source work is centered on practical tools for rooted Android devices, including LSPosed/Xposed modules, root and shell automation, boot control scripts, ADB workflows, and system presentation-layer customization. I care about tools that are stable, installable, clearly scoped, and useful in real rooted-device scenarios rather than simple UI demos or unfinished prototypes.
+
+On Android, my work involves system hooking, app metadata handling, notification presentation customization, startup automation, and root-level workflow optimization. Beyond Android, I also work with mobile build and distribution pipelines, including Android utility apps, cross-platform mobile prototypes, and iOS IPA build, signing, and delivery workflows.
+
+My goal is to build reliable mobile system tools that connect low-level device control, runtime customization, and practical engineering workflows.
 
 ---
 
