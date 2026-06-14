@@ -2,11 +2,9 @@
   <img src="https://raw.githubusercontent.com/ethansrz9/ethansrz9/main/assets/cat-carousel-transparent.gif" alt="Animated cat carousel banner" width="100%" />
 </p>
 
-<h1 align="center">長島不加冰.</h1>
+# hey, 長島不加冰 here
 
-<p align="center">
-  <strong>Mobile Systems Developer &amp; Toolchain Maintainer</strong>
-</p>
+**Mobile Systems Developer & Toolchain Maintainer**
 
 I focus on system-level utility development, runtime modification, and mobile engineering toolchains across the Android root ecosystem and cross-platform app workflows.
 
@@ -15,43 +13,6 @@ My open-source work is centered on practical tools for rooted Android devices, i
 On Android, my work involves system hooking, app metadata handling, notification presentation customization, startup automation, and root-level workflow optimization. Beyond Android, I also work with mobile build and distribution pipelines, including Android utility apps, cross-platform mobile prototypes, and iOS IPA build, signing, and delivery workflows.
 
 My goal is to build reliable mobile system tools that connect low-level device control, runtime customization, and practical engineering workflows.
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ethansrz9/icon-hook-lsp">Icon Hook LSP</a></h3>
-      <p>Public release repository for an LSPosed/Xposed module that customizes app labels and icon presentation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/v4.17-latest-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/LSPosed%20%2F%20Xposed-555555?style=flat-square" />
-        <img src="https://img.shields.io/badge/Public%20Release-APK-111827?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/ethansrz9/icon-hook-lsp/releases">
-          <img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ethansrz9/scene-adb-boot">Scene ADB Boot Activator</a></h3>
-      <p>KernelSU/APatch module for restoring Scene ADB startup workflows after boot.</p>
-      <p>
-        <img src="https://img.shields.io/badge/v1.9-latest-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/KernelSU%20%2F%20APatch-555555?style=flat-square" />
-        <img src="https://img.shields.io/badge/Public%20Release-ZIP-111827?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/ethansrz9/scene-adb-boot/releases">
-          <img src="https://img.shields.io/badge/Download-ZIP-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## Focus
 
